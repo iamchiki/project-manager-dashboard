@@ -1,0 +1,21 @@
+.card {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  flex: 1;
+}
+
+.alertCard {
+  background: #e97878;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  flex: 1;
+  color: #fff;
+}
+
+.iconContainer {
+  display: flex;
+  justify-content: flex-start;
+}

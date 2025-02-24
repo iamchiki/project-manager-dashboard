@@ -1,0 +1,9 @@
+.sideViewContainer {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  flex: 1;
+}
+.smiley {
+  margin-right: 5px;
+}

@@ -1,0 +1,35 @@
+.cardContainer {
+  margin: 25px 0;
+}
+
+.cardBody {
+  display: flex;
+  gap: 8px;
+}
+
+.cardBody p {
+  margin: 0;
+}
+
+.name {
+  font-weight: 600;
+}
+
+.profile {
+  font-weight: 100;
+}
+
+.progressBar {
+  background: #eee;
+  border-radius: 10px;
+  height: 5px;
+  margin-top: 10px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.progress {
+  height: 100%;
+  border-radius: 10px;
+}
